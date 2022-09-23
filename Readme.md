@@ -28,3 +28,7 @@ UNOFFICIAL PATCH notes
 - 1.1.0.8->1.1.0.9 (Sam.)
 	- Fixed small graphical glitch on About window
 	- Included source code for SetExportCol.exe
+
+- 1.1.0.9->1.1.1.0 (Sam.)
+	- Changed the quick color selectors for the transparent/shadow colors from teal/pink to green/black
+	- Created schnifty new BAMWconfig.exe program that can be used to set not only the shadow color when exporting to .gif (depreciating SetExportCol.exe) but also the quick color selectors used for the transparent and shadow colors.  [Run "BAMWconfig.exe -about" from the command line to view the legal and copyright info]
