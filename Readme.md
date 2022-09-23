@@ -24,3 +24,7 @@ UNOFFICIAL PATCH notes
 	- Ability to set shadow (second entry) colour when exporting to .gif (change via SetExportCol.exe)
 	- Keyboard shortcuts added for frame/sequence navigation and common commands
 	- About page updated to reflect current version
+
+- 1.1.0.8->1.1.0.9 (Sam.)
+	- Fixed small graphical glitch on About window
+	- Included source code for SetExportCol.exe
